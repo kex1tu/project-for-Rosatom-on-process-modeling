@@ -5,4 +5,4 @@
     - mortality.
     
 2. Algorithm Explanation and instructions.
-    - [video](https://vk.com/video_ext.php?oid=-222481962&id=456239035&hd=3&hash=2b73c97b78a0f0f5&autoplay=1)
+    - [video](https://vk.com/video_ext.php?oid=-222481962&id=456239035&hd=3&hash=2b73c97b78a0f0f5&autoplay=1) (Only for [vk.com](https://vk.com) users)
